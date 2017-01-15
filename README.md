@@ -1,6 +1,8 @@
 # arc.js
 > Calculate great circles routes as lines in GeoJSON or WKT format.
 
+Read this for an optional technique for drawing geodesic line: http://stackoverflow.com/questions/37856572/how-do-i-draw-a-geodesic-line-through-map-edges-in-openlayers-3
+
 Algorithms from http://williams.best.vwh.net/avform.htm#Intermediate
 
 Includes basic support for splitting lines that cross the dateline, based on
